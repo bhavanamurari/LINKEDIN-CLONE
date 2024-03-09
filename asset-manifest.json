@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LINKEDIN-CLONE/static/css/main.49340487.css",
+    "main.js": "/LINKEDIN-CLONE/static/js/main.270f2d65.js",
+    "static/js/592.9a2b90e0.chunk.js": "/LINKEDIN-CLONE/static/js/592.9a2b90e0.chunk.js",
+    "index.html": "/LINKEDIN-CLONE/index.html",
+    "main.49340487.css.map": "/LINKEDIN-CLONE/static/css/main.49340487.css.map",
+    "main.270f2d65.js.map": "/LINKEDIN-CLONE/static/js/main.270f2d65.js.map",
+    "592.9a2b90e0.chunk.js.map": "/LINKEDIN-CLONE/static/js/592.9a2b90e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49340487.css",
+    "static/js/main.270f2d65.js"
+  ]
+}
